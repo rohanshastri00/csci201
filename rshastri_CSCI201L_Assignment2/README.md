@@ -1,10 +1,15 @@
-#Rohan Shastri
-#Student ID: 29300976094
-#CSCI 201L Homework 2
-#September 24th, 2017
-#rshastri@usc.edu
-#Section: 30389
-#CSCI 201L Website (JSON-Populated)
+# Rohan Shastri
+# Student ID: 29300976094
+# CSCI 201L Homework 2
+# September 24th, 2017
+# rshastri@usc.edu
+# Section: 30389
+# CSCI 201L Website (JSON-Populated)
+
+Builds on Assignment 1 by taking the 
+Java objects created by parsing JSON file
+and then populates the USC CSCI 201 Website.
+Further website functionality added in later assignments.
 
 Run index.jsp to begin the program. 
 Will not take in any non JSON files, 
